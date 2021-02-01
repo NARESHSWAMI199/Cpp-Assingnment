@@ -1,4 +1,4 @@
-# oops Assingnment
+# Oops Assingnment
 
 ##### Here some file are without cpp extenstion. beacuse i am using linux. but if you are using window then ignor these files
 #### these two questions not included for now. next day i will done all and update this again.
